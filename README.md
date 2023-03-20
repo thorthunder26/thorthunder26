@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thorthunder26
-- 👀 I’m interested in the field of Game Developement.
-- 🌱 I’m currently learning Python programming language...
+- 👀 I’m interested in the field of Web Developement and Software Development.
+- 🌱 I’m currently learning Java Programming language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my linkedIn profile https://www.linkedin.com/in/ansh-sharma-442542212/
 
